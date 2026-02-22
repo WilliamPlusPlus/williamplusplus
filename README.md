@@ -2,8 +2,9 @@
 
 
 
-My name is William Phenicie. I am a Technology Management student at Texas A&M. I am also the owner of Phenicie Group and InPhluence. 
+Technology Management student at Texas A&M focused on cybersecurity, systems architecture, and scalable infrastructure. Founder of Phenicie Group and InPhluence. Building technology-driven organizations that scale.
 
+I love everything digital: digital marketing, information technology, cyber security, AI, etc.
 
 <!--
 **WilliamPlusPlus/williamplusplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
