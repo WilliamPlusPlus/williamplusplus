@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+
+My name is William Phenicie. I am a Technology Management student at Texas A&M. I am also the owner of Phenicie Group and InPhluence. 
+
+
 <!--
 **WilliamPlusPlus/williamplusplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
